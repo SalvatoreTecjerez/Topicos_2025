@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
     <fullyQualifiedTypeName name="java.lang.Math"/>
-    <fullyQualifiedTypeName name="javax.swing.SwingUtilities"/>
-    <fullyQualifiedTypeName name="java.lang.Runnable"/>
     <fullyQualifiedTypeName name="javax.swing.JSpinner"/>
     <fullyQualifiedTypeName name="javax.swing.SpinnerListModel"/>
     <fullyQualifiedTypeName name="javax.swing.JRadioButton"/>
@@ -10,7 +8,6 @@
     <fullyQualifiedTypeName name="javax.swing.JCheckBox"/>
     <fullyQualifiedTypeName name="VentanaInicio"/>
     <fullyQualifiedTypeName name="javax.swing.border.CompoundBorder"/>
-    <fullyQualifiedTypeName name="javax.swing.JFrame"/>
     <fullyQualifiedTypeName name="java.awt.GridBagLayout"/>
     <fullyQualifiedTypeName name="javax.swing.JTextArea"/>
     <fullyQualifiedTypeName name="java.awt.GridBagConstraints"/>
@@ -47,4 +44,17 @@
     <fullyQualifiedTypeName name="javax.swing.JComponent"/>
     <fullyQualifiedTypeName name="javax.swing.JTextField"/>
     <fullyQualifiedTypeName name="javax.swing.JComboBox"/>
+    <fullyQualifiedTypeName name="java.util.Scanner"/>
+    <fullyQualifiedTypeName name="javax.swing.JFrame"/>
+    <fullyQualifiedTypeName name="javax.swing.SwingUtilities"/>
+    <fullyQualifiedTypeName name="edu.tecjerez.topicos.vista.VentanaInicio"/>
+    <fullyQualifiedTypeName name="edu.tecjerez.topicos.figuras.Circulo"/>
+    <fullyQualifiedTypeName name="edu.tecjerez.topicos.figuras.Triangulo"/>
+    <fullyQualifiedTypeName name="edu.tecjerez.topicos.figuras.Figuras"/>
+    <fullyQualifiedTypeName name="edu.tecjerez.topicos.figuras.Figuras.Rectangulo"/>
+    <fullyQualifiedTypeName name="java.lang.Runnable"/>
+    <fullyQualifiedTypeName name="HiloProceso1"/>
+    <fullyQualifiedTypeName name="java.lang.Thread"/>
+    <fullyQualifiedTypeName name="Tesis"/>
+    <fullyQualifiedTypeName name="java.lang.Runtime"/>
 </qualifiedTypeNameHistroy>
