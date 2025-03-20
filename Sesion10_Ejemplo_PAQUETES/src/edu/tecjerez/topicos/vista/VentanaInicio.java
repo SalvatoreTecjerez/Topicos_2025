@@ -31,6 +31,7 @@ public class VentanaInicio extends JFrame{
 	public VentanaInicio() {
 		setSize(400, 400);
 		setVisible(true);
+		setDefaultCloseOperation(EXIT_ON_CLOSE);
 	}
 	
 }

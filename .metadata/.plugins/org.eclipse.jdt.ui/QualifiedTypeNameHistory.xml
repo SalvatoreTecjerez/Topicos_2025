@@ -1,7 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-    <fullyQualifiedTypeName name="java.lang.Math"/>
-    <fullyQualifiedTypeName name="javax.swing.JSpinner"/>
     <fullyQualifiedTypeName name="javax.swing.SpinnerListModel"/>
     <fullyQualifiedTypeName name="javax.swing.JRadioButton"/>
     <fullyQualifiedTypeName name="javax.swing.ButtonGroup"/>
@@ -52,9 +50,14 @@
     <fullyQualifiedTypeName name="edu.tecjerez.topicos.figuras.Triangulo"/>
     <fullyQualifiedTypeName name="edu.tecjerez.topicos.figuras.Figuras"/>
     <fullyQualifiedTypeName name="edu.tecjerez.topicos.figuras.Figuras.Rectangulo"/>
-    <fullyQualifiedTypeName name="java.lang.Runnable"/>
     <fullyQualifiedTypeName name="HiloProceso1"/>
-    <fullyQualifiedTypeName name="java.lang.Thread"/>
     <fullyQualifiedTypeName name="Tesis"/>
     <fullyQualifiedTypeName name="java.lang.Runtime"/>
+    <fullyQualifiedTypeName name="Programacion"/>
+    <fullyQualifiedTypeName name="Whatsapp"/>
+    <fullyQualifiedTypeName name="java.lang.Runnable"/>
+    <fullyQualifiedTypeName name="WhatsApp"/>
+    <fullyQualifiedTypeName name="HiloEmisor"/>
+    <fullyQualifiedTypeName name="HiloReceptor"/>
+    <fullyQualifiedTypeName name="java.lang.Thread"/>
 </qualifiedTypeNameHistroy>
